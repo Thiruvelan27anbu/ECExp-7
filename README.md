@@ -9,8 +9,6 @@
 ## Tabulations 
 <img width="1089" height="1429" alt="image" src="https://github.com/user-attachments/assets/d3dac3f0-4e36-4240-b9a7-6d8e6918c6b6" />
 
-## Semilog Graph
 
-<img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
 ## RESULT
 <img width="1435" height="1228" alt="image" src="https://github.com/user-attachments/assets/2fe17b48-defa-4682-a7fe-52c1e6aad87a" />
